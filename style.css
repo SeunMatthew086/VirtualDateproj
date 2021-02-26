@@ -58,3 +58,22 @@ img {
 .mt-48 {
     margin-top: 48px;
 }
+
+video {
+    max-width: 92%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 8px;
+}
+
+.bg-fr {
+    background: linear-gradient(103.72deg, #EE58E8 -3.24%, rgba(184, 69, 150, 0.78) 99.18%);
+    max-width: 80%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 48px;
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
