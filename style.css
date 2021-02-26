@@ -8,3 +8,11 @@ body {
     background-color: #18181b;
     color: #ffffff;
 }
+
+.bg-white {
+    background-color: #ffffff;
+}
+
+.text-gray-900 {
+    color:#18181b;
+}
